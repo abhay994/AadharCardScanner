@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270682223399",
+    "firebase_url": "https://aadharcardscanner.firebaseio.com",
+    "project_id": "aadharcardscanner",
+    "storage_bucket": "aadharcardscanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270682223399:android:d99ed4f54db63ab3",
+        "android_client_info": {
+          "package_name": "com.aadhar.abhay.aadharcardscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270682223399-30gvteq8htc3d4p5nrshkv4rdle299b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aadhar.abhay.aadharcardscanner",
+            "certificate_hash": "4c2de15166915bb6000da60c2c64127fdf457957"
+          }
+        },
+        {
+          "client_id": "270682223399-hqpt0o3cqbnt043nq6jefmh4hci1beoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonavrjdTZ-_5G7cpAxEstNye3I8iWckI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270682223399-hqpt0o3cqbnt043nq6jefmh4hci1beoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
